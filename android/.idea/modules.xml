@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/flutter_facebook_pro.unitTest.iml" />
     </modules>
   </component>
 </project>
